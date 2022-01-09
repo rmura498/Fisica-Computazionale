@@ -1,2 +1,2 @@
 # Fisica-Computazionale 
-Esercizi svolti nel corso di Fisica Computazionale della Facoltà di Fisica dell'Università degli studi di Cagliari
+Codice implementato durante il corso di Fisica Computazionale del cdl di Fisica presso l'Università degli studi di Cagliari
